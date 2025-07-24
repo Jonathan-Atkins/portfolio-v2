@@ -217,7 +217,7 @@ const DesktopView = () => {
               View
             </span>
           </div>
-          <div className="menu-right">
+          <div className="menu-right time-date-container">
             <span className="time">{formatTime(currentTime)}</span>
             <span className="date">{formatDate(currentTime)}</span>
           </div>

@@ -315,6 +315,13 @@
   color: #ffffff;
 }
 
+.time-date-container {
+  display: flex;
+  gap: 8px; /* or any spacing you prefer */
+  align-items: center;
+}
+
+
 /* Mobile iPhone Styles */
 .iphone-container {
   height: 100vh;
